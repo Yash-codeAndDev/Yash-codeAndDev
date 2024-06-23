@@ -14,7 +14,7 @@
 </div>  
 
 - 🌱 Currently trying hands in **React**
-- 👀 I’m interested in learning **new** **technologies** and tring out new and amazing stuffs               
+- 👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs               
 - 💻 Tech Stack : **Web** **Development** | **Python**
 - 📫 How to reach me yashkhati23@gmail.com
 
