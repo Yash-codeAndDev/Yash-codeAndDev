@@ -13,6 +13,9 @@
 <a href="https://github.com/Yash-codeAndDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/u/code_yash/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" width="50" />
+</a>
 </div>  
 
 - 🌱 Currently trying hands in **React**
