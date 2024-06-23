@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Yash-codeAndDev)
 
-## **A B.Tech student with majors in CSE.**
+## **A B.Tech student with major in CSE.**
 
 <div align="center">
 <a href="https://linkedin.com/in/yash-khati" target="_blank">
