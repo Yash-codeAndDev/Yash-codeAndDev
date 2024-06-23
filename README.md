@@ -2,6 +2,8 @@
 
 <img align="right" img src="https://media.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif" height = "350" width = "350"/>  
 
+![](https://komarev.com/ghpvc/?username=Yash-codeAndDev)
+
 ## **A B.Tech student with majors in CSE.**
 
 <div align="center">
@@ -43,19 +45,14 @@
 
 #
 ### Github Stats:
-<table><tr><td valign="top" width="50%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-codeAndDev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-codeAndDev&theme=blue-green&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-codeAndDev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-codeAndDev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-#
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-codeAndDev&theme=dark)](https://git.io/streak-stats)
+<!-- Top Languages Below -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-codeAndDev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=Yash-codeAndDev)
