@@ -24,10 +24,7 @@
 <br> </br>
 #
 ### 🛠 TOOLS :
-<img align="left" img src="https://i.postimg.cc/GpnFTDB4/download.png" height = "50" width = "50"/>
-<img align="left" img src="https://i.postimg.cc/02LmhS0V/download.jpg" height = "50" width = "50"/>
-<img align="left" img src="https://i.postimg.cc/sXDZ543g/download-2.png" height = "50" width = "50"/>
-<img align="left" img src="https://i.postimg.cc/QdG9f3jP/download-1.png" height = "50" width = "50"/>
+
 
 <br> </br>
 <br> </br>
@@ -40,4 +37,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-codeAndDev&theme=dark)](https://git.io/streak-stats)
 
---->
