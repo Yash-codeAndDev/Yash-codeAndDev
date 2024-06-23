@@ -1,6 +1,8 @@
 # Hello Everyone!👩‍💻 I'm Yash Khati😀
 
-<img align="right" img src="https://media.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif" height = "350" width = "350"/>  
+<img align="right" img src="https://media.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif" height = "300" width = "300"/>  
+
+![](https://komarev.com/ghpvc/?username=Yash-codeAndDev)
 
 ## **A B.Tech student with majors in CSE.**
 
@@ -11,12 +13,16 @@
 <a href="https://github.com/Yash-codeAndDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/u/code_yash/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" width="50" />
+</a>
 </div>  
 
 - 🌱 Currently trying hands in **React**
 - 👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs               
 - 💻 Tech Stack : **Web** **Development** | **Python**
 - 📫 How to reach me yashkhati23@gmail.com
+
 
 #
 ### LANGUAGES AND  TOOLS :
@@ -43,19 +49,14 @@
 
 #
 ### Github Stats:
-<table><tr><td valign="top" width="50%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-codeAndDev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-codeAndDev&theme=blue-green&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-codeAndDev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-codeAndDev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-#
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-codeAndDev&theme=dark)](https://git.io/streak-stats)
+<!-- Top Languages Below -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-codeAndDev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=Yash-codeAndDev)
