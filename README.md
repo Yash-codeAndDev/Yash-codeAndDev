@@ -20,7 +20,7 @@
 
 - 🌱 Currently trying hands in **React**
 - 👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs               
-- 💻 Tech Stack : **Web** **Development** | **Python**
+- 💻 Tech Stack : **Web Development** | **JAVA** | **C++** |**JavaScript** |**Python** 
 - 📫 How to reach me yashkhati23@gmail.com
 
 
