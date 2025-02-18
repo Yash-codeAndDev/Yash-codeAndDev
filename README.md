@@ -1,6 +1,5 @@
 # Hello Everyone!👩‍💻 I'm Yash Khati😀
 
-<img align="right" img src="https://media.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif" height = "300" width = "300"/>  
 
 ![](https://komarev.com/ghpvc/?username=Yash-codeAndDev)
 
