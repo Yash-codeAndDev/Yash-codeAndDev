@@ -1,60 +1,96 @@
-# Hello Everyone!👩‍💻 I'm Yash Khati😀
+<div align="center">
 
+# 👋 Hi, I'm **Yash Khati**
+### 💻 Software Developer @ TCS | B.Tech CSE
 
-![](https://komarev.com/ghpvc/?username=Yash-codeAndDev)
+<img src="https://komarev.com/ghpvc/?username=Yash-codeAndDev&style=flat-square&color=blue" />
 
-## **A B.Tech student with major in CSE.**
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in **Computer Science & Engineering**
+- 💼 **Software Developer at Tata Consultancy Services (TCS)** (April 2025 – Present)
+- 🌱 Currently working with **React & Full-Stack Development**
+- 🧠 Interested in **DSA, System Design & New Technologies**
+- 📧 Email: **yashkhati23@gmail.com**
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
-<a href="https://linkedin.com/in/yash-khati" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="https://linkedin.com/in/yash-khati">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Yash-codeAndDev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://leetcode.com/u/code_yash/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" width="50" />
+
+<a href="https://github.com/Yash-codeAndDev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-</div>  
 
-- 🌱 Currently trying hands in **React**
-- 👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs               
-- 💻 Tech Stack : **Web Development** | **JAVA** | **C++** |**JavaScript** |**Python** 
-- 📫 How to reach me yashkhati23@gmail.com
+<a href="https://leetcode.com/u/code_yash/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+</div>
 
-#
-### LANGUAGES AND  TOOLS :
-  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15x" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
+---
 
-</div>  
-</div>  
+## 🛠️ Tech Stack
 
-<br/>  
-
-#
-### Github Stats:
+### 👨‍💻 Languages
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-codeAndDev&theme=blue-green&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
 </p>
 
-<!-- Top Languages Below -->
+### 🌐 Web & Frameworks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-codeAndDev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
 </p>
 
-<br/>
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
+</p>
+
+---
+
+## 🧠 LeetCode Problems Solved
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/code_yash?theme=dark&font=JetBrains%20Mono" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-codeAndDev&theme=blue-green"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-codeAndDev&layout=compact&theme=blue-green"/>
+</p>
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile!  
+Let’s connect and build something awesome 🚀
+
+</div>
