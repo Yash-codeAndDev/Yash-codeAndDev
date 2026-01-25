@@ -88,9 +88,5 @@
 
 ---
 
-<div align="center">
-
-✨ Thanks for visiting my profile!  
-Let’s connect and build something awesome 🚀
 
 </div>
